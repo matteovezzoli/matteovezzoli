@@ -34,7 +34,7 @@ I'm a Sports Data Analyst and Scientist based in Milan, Italy. I specialize in t
 
 ### 🛠️ Tech Stack & Skills
 
-*   **Languages:** Python (Pandas, NumPy, Scikit-learn, XGBoost), R, SQL (MySQL), SAS, MongoDB[cite: 1]
+*   **Languages:** Python (Pandas, NumPy, Scikit-learn, XGBoost), R, SQL (MySQL), SAS, MongoDB
 *   **Analytics:** Time Series Forecasting, Predictive Modeling, Machine Learning (Regression & Classification), Clustering, Web Scraping
 *   **Tools:** Git/GitHub, Power BI, Excel, Streamlit[cite: 1]
 
@@ -42,5 +42,5 @@ I'm a Sports Data Analyst and Scientist based in Milan, Italy. I specialize in t
 
 ### 📫 Connect with me
 
-*   **LinkedIn:** [linkedin.com/in/matteo-vezzoli83](https://linkedin.com/in/matteo-vezzoli83)[cite: 1]
-*   **Email:** matt.vezzoli@gmail.com[cite: 1]
+*   **LinkedIn:** [linkedin.com/in/matteo-vezzoli83](https://linkedin.com/in/matteo-vezzoli83)
+*   **Email:** matt.vezzoli@gmail.com
