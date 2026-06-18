@@ -8,6 +8,7 @@ I'm a Sports Data Analyst and Scientist based in Milan, Italy. I specialize in t
 
 *   **Contextual Football Scouting (In Progress):** A data-driven scouting platform designed to mitigate "Team Bias" by isolating individual talent from team tactical structures. Utilizing UEFA Euro 2024 StatsBomb 360° and Transfermarkt data, the project implements spatial metrics via Convex Hull, Expected Possession Value (EPV) to spot line-breakers, decision-quality evaluation under pressure, off-ball movement tracking, and a within-role similarity model ("Spatial DNA").
 *   **Serie A CB Scouting Engine:** An interactive Streamlit dashboard built on PCA and clustering algorithms to categorize and profile Italian top-flight center-backs.
+*   **Technical Scouting & Match Analysis (Girona FC Recruitment Pipeline):** Developed professional scouting deliverables and tactical assessments tailored to the specific recruitment data standards of Girona FC's analytical department.
 *   **Expected Goals (xG) Pipeline:** End-to-end development and calibration of xG models using Logistic Regression, Random Forests, and XGBoost.
 
 ---
@@ -26,7 +27,6 @@ I'm a Sports Data Analyst and Scientist based in Milan, Italy. I specialize in t
 
 ### 💼 Professional Experience & Scouting Tasks
 
-*   **Girona FC:** Completed a comprehensive technical scouting analysis deliverables during their sports data scientist recruitment process.
 *   **University of Bologna (Research Fellow):** Managed the full data pipeline—from curation and machine learning modeling to final software implementation and visualization—for a scientific publication.
 *   **Nomisma (Market & Data Analyst):** Designed and deployed a predictive model in R that was officially presented at Vinitaly 2025.
 
@@ -36,7 +36,7 @@ I'm a Sports Data Analyst and Scientist based in Milan, Italy. I specialize in t
 
 *   **Languages:** Python (Pandas, NumPy, Scikit-learn, XGBoost), R, SQL (MySQL), SAS, MongoDB
 *   **Analytics:** Time Series Forecasting, Predictive Modeling, Machine Learning (Regression & Classification), Clustering, Web Scraping
-*   **Tools:** Git/GitHub, Power BI, Excel, Streamlit[cite: 1]
+*   **Tools:** Git/GitHub, Power BI, Excel, Streamlit
 
 ---
 
