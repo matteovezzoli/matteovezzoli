@@ -8,7 +8,8 @@ Statistics background (M.Sc. 110/110 cum laude), Postgraduate in Sports Analytic
 
 ### ⚽ Football Analytics Projects
 
-**[Contextual Football Scouting](https://github.com/matteovezzoli/<repo>)** · [Web app](https://contextual-football-scouting.vercel.app/)
+**[Contextual Football Scouting](https://github.com/ArMat-Analytics/
+Contextual-Football-Scouting)** · [Web app](https://contextual-football-scouting.vercel.app/)
 Scouting platform covering 272 players from UEFA Euro 2024, built on StatsBomb 360° data to measure the value a player creates independently of his team's context.
 - Defensive block modeled as a **Convex Hull**; progression weighted by **Expected Possession Value (EPV)** rather than passing volume
 - **Decision Quality Index**: each passing choice scored against the alternatives actually available in the frame
@@ -22,7 +23,7 @@ Serie A analytics dashboard built end-to-end from the official Lega Serie A Matc
 - Team analysis: playing-style and efficiency maps, home/away splits, standings over time
 - 12-page Streamlit app, every chart explained, updated matchday by matchday
 
-**[Serie A CB Scouting Engine](https://github.com/matteovezzoli/<repo>)** · [Dashboard](https://seriea-defensive-engine.streamlit.app/)
+**[Serie A CB Scouting Engine](https://github.com/matteovezzoli/SerieA-DefensiveScouting-Engine)** · [Dashboard](https://seriea-defensive-engine.streamlit.app/)
 Scouting system for Serie A centre-backs (2025/26): **PCA + K-Means** clustering on 77 players to identify similar profiles, in an interactive Streamlit dashboard.
 
 **Expected Goals (xG) Pipeline**
