@@ -8,8 +8,7 @@ Statistics background (M.Sc. 110/110 cum laude), Postgraduate in Sports Analytic
 
 ### ⚽ Football Analytics Projects
 
-**[Contextual Football Scouting](https://github.com/ArMat-Analytics/
-Contextual-Football-Scouting)** · [Web app](https://contextual-football-scouting.vercel.app/)
+**[Contextual Football Scouting](https://github.com/ArMat-Analytics/Contextual-Football-Scouting)** · [Web app](https://contextual-football-scouting.vercel.app/)
 Scouting platform covering 272 players from UEFA Euro 2024, built on StatsBomb 360° data to measure the value a player creates independently of his team's context.
 - Defensive block modeled as a **Convex Hull**; progression weighted by **Expected Possession Value (EPV)** rather than passing volume
 - **Decision Quality Index**: each passing choice scored against the alternatives actually available in the frame
